@@ -9,7 +9,7 @@ CREATE TABLE Employees (
 );
 
 INSERT INTO Employees VALUES
-(1,'Tejasri','IT',50000),
+(1,'Gayathri','IT',50000),
 (2,'Pavithra','IT',60000),
 (3,'Mike','HR',45000),
 (4,'Emily','HR',55000),
