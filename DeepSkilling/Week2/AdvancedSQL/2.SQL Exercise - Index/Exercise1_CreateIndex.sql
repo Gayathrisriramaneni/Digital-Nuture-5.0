@@ -7,7 +7,7 @@ CREATE TABLE Customers (
 );
 
 INSERT INTO Customers VALUES
-(1,'Tejasri','Hyderabad'),
+(1,'Gayathri','Hyderabad'),
 (2,'Pavithra','Chennai'),
 (3,'John','Mumbai'),
 (4,'David','Delhi');
