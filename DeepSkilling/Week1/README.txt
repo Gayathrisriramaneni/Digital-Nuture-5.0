@@ -1,0 +1,1 @@
+Week 1 DotNet FSE - Module Wise VS Code Structure
